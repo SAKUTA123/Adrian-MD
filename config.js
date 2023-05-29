@@ -12,30 +12,30 @@ global.APIKeys = {
 }
 global.lolhuman = 'APOLOZEA'
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = '𝙰𝙳𝚁𝙸𝙰𝙽-𝙼𝙳'
-global.namaowner = '𝙰𝙳𝚁𝙸𝙰𝙽'
+global.namabot = 'Whatsapp Support Bot'
+global.namaowner = 'LEON'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6289513081052']
-global.ownernomer = "6289513081052"
-global.premium = ['6289513081052']
-global.ultah = 'Maret 24, 2024'
+global.owner = ['6287760550924']
+global.ownernomer = "6287760550924"
+global.premium = ['6287760550924']
+global.ultah = '-'
 
 //—————「 Setting Donasi 」—————//
 global.dana = '089513081052'
 
 //—————「 Set Kebutuhan Button 」—————//
-global.email = 'azzygota24@gmail.com'
+global.email = '-'
 global.namaweb = 'TikTok'
-global.myweb = 'https://tiktok.com/@dryan.am'
+global.myweb = '-'
 global.region = 'Indonesia'
-global.github = 'https://github.com/AdrianTzy'
-global.mygc = 'https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10'
-global.myig = 'https://instagram.com/dryan.pu'
+global.github = '-'
+global.mygc = 'https://chat.whatsapp.com/IUPtqrnxzmA1KQZqFusCqA'
+global.myig = '-'
 
 //—————「 Set Wm 」—————//
-global.packname = '𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙱𝚈 𝙰𝙳𝚁𝙸𝙰𝙽𝙱𝙾𝚃\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.author = '𝙹𝙰𝙽𝙶𝙰𝙽 𝙻𝚄𝙿𝙰 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴\n𝚈𝚃:𝙳𝚁𝚈𝙰𝙽𝙱𝙾𝚃'
+global.packname = '𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙱𝚈 Whatsapp Support\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
+global.author = 'Jangan Lupa Donasi\nOVO : 6287760550924'
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² ini!
@@ -76,9 +76,9 @@ global.limitawal = {
 //global.thumb = 'https://telegra.ph/file/1537b118bad59ab8fa15e.png'
 global.thumb = fs.readFileSync('./media/image/adrian.jpg')
 global.kurome = { url: 'https://a.uguu.se/faLPPBPP.mp4' }
-global.botname = 'AdrianTzy Creator'
-global.akulaku = 'Bot By AdrianTzy'
-global.ttname = 'TikTok AdrianTzy'
+global.botname = 'Whatsapp Support Creator'
+global.akulaku = 'Bot By Whatsapp Support'
+global.ttname = '-'
 
 //—————「 Set Random Image Menu 」—————//
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
